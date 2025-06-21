@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/fourinarow-build": {},
+    "/fourinarow-build/game": {},
+    "/fourinarow-build/online": {},
+    "/fourinarow-build/online-login": {},
+    "/fourinarow-build/party": {}
+  }
+}

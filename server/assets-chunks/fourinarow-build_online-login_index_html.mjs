@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en" data-beasties-container><head>
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
   <meta charset="utf-8">
   <title>Viergewinnt</title>
   <base href="/fourinarow-build/">
@@ -12,4 +12,4 @@
 <script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-Y325QGJQ.js" type="module"></script>
 
 
-<script id="ng-state" type="application/json">{"__nghData__":[{},{"c":{"0":[{"i":"c754885952","r":1}]}}]}</script></body></html>
+<script id="ng-state" type="application/json">{"__nghData__":[{},{"c":{"0":[{"i":"c754885952","r":1}]}}]}</script></body></html>`;
