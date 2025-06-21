@@ -7,34 +7,34 @@ export default {
   routes: [
   {
     "renderMode": 2,
-    "route": "/fourinarow-build"
+    "route": "/Fourinarow-Build"
   },
   {
     "renderMode": 2,
-    "route": "/fourinarow-build/game"
+    "route": "/Fourinarow-Build/game"
   },
   {
     "renderMode": 2,
-    "route": "/fourinarow-build/party"
+    "route": "/Fourinarow-Build/party"
   },
   {
     "renderMode": 2,
-    "route": "/fourinarow-build/online"
+    "route": "/Fourinarow-Build/online"
   },
   {
     "renderMode": 2,
-    "route": "/fourinarow-build/online-login"
+    "route": "/Fourinarow-Build/online-login"
   }
 ],
   entryPointToBrowserMapping: undefined,
   assets: {
-    'index.csr.html': {size: 7810, hash: '6dd897a20ab5dae4885c1a05088cf12108cd35eee1456fc291ae1b87839eb0de', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 1026, hash: 'fd4f633e5b37e487b1f5d90b4389acc48fe94c2fbd61efa1997a7ec5a5d24199', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'fourinarow-build/game/index.html': {size: 26713, hash: 'e9c74069fc2736e5ecf225fbc5477bc9d00b34fa4e1ac3390a20ce4439645f2b', text: () => import('./assets-chunks/fourinarow-build_game_index_html.mjs').then(m => m.default)},
-    'fourinarow-build/index.html': {size: 29972, hash: '748da47027a7d932bbbbbf0b162c3a9839c2bf188710f6b6876126e3eccb9346', text: () => import('./assets-chunks/fourinarow-build_index_html.mjs').then(m => m.default)},
-    'fourinarow-build/party/index.html': {size: 30332, hash: '8c618a211c36cd8821bc09851bba6bd917571652e6ff9fb1bf9bcd9fc85547be', text: () => import('./assets-chunks/fourinarow-build_party_index_html.mjs').then(m => m.default)},
-    'fourinarow-build/online/index.html': {size: 23979, hash: 'd46205eca695b63464bd20a2561d61eb8de605f2d2ed301f4e4e8a6949eebfe2', text: () => import('./assets-chunks/fourinarow-build_online_index_html.mjs').then(m => m.default)},
-    'fourinarow-build/online-login/index.html': {size: 13562, hash: 'dfc6ffa304974f2035ef054ac5dbfc2af7f9ea03ccaacddf492d0c08d09e6d12', text: () => import('./assets-chunks/fourinarow-build_online-login_index_html.mjs').then(m => m.default)},
+    'index.csr.html': {size: 7837, hash: '4a10b59b3fb1689d3e42dfab5a3e9f54423e7e623ea3a7d918158d61244d1331', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 1053, hash: '467a7c9ca0a0fd6cd74a3428e670069f1540a5b3730843e7a4d5366f60206d94', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'Fourinarow-Build/index.html': {size: 29963, hash: 'e079fa26bc78cff13cbcf2eaf7e0838996fddbf4119c31b078852fe54e8dc891', text: () => import('./assets-chunks/Fourinarow-Build_index_html.mjs').then(m => m.default)},
+    'Fourinarow-Build/game/index.html': {size: 26740, hash: '2e6b58780db5309a1c76149d5821e5a21ff1cea9676aaca49355907a7adfd520', text: () => import('./assets-chunks/Fourinarow-Build_game_index_html.mjs').then(m => m.default)},
+    'Fourinarow-Build/party/index.html': {size: 30359, hash: '1c32fe5f296cef3493f99630fdf984e6a75bbb422ee4e921c5ad985ab60d8d43', text: () => import('./assets-chunks/Fourinarow-Build_party_index_html.mjs').then(m => m.default)},
+    'Fourinarow-Build/online-login/index.html': {size: 13589, hash: '5f594a4440d383d595a7a6864ad4e144716a046a157c8f0eb0cc8a47446d5637', text: () => import('./assets-chunks/Fourinarow-Build_online-login_index_html.mjs').then(m => m.default)},
+    'Fourinarow-Build/online/index.html': {size: 24006, hash: 'be314974b5562d51c579bccdc58b8b4a28b1a775e387cbe077754c31d1247172', text: () => import('./assets-chunks/Fourinarow-Build_online_index_html.mjs').then(m => m.default)},
     'styles-NF3EFLZ3.css': {size: 18341, hash: 'nWv6owzn+y8', text: () => import('./assets-chunks/styles-NF3EFLZ3_css.mjs').then(m => m.default)}
   },
 };
